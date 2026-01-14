@@ -1,37 +1,61 @@
- # Name: PRIYADHARSHINI K
- # Intern ID: CTIS0335
- # Domain: Frontend Development
- # Company: Codetech IT Solutions
+**Name:** PRIYADHARSHINI K  
+**Intern ID:** CTIS0335  
+**Domain:** Frontend Development  
+**Company:** Codetech IT Solutions  
+**Mentor:** Neela Santhosh  **Duration:** 4 weeks
 
-# Project Overview
+## 📌 Project Overview
 
-This is a real-time Chat Application created using ReactJS.
-The application allows users to send and receive messages instantly, simulating a live chat environment.
+This project is a **simple E-Learning Model** developed using **HTML and CSS**.  
+It simulates an online learning platform where users can:
 
-🚀 Features
-  Real-time messaging between users.
-  User-friendly interface built with ReactJS.
-  Simple design for easy navigation and chatting.
+1. 🎯 Select a learning domain  
+2. 🌐 Choose a preferred language  
+3. 🎥 Watch educational videos  
+4. 📊 Track their learning progress through a dashboard  
 
-🛠️ Technologies Used
-   ReactJS for frontend
-   Node.js for backend server
-   Socket.io for real-time communication
-   HTML5 & CSS3 for styling
+This project focuses on **page navigation, layout design, and user flow**.
 
-📂 Project Structure
+## 🚀 Features
 
-frontend/        
-  ├─ src/ 
-  │   └─ App.js       
-  └─ package.json     
+- 📘 **Domain Selection**  
+  Users can choose the subject or domain they want to learn.
 
-server/          
-  ├─ server.js       
-  └─ package.json     
+- 🌍 **Language Selection**  
+  Option to select the preferred language for the course.
 
-📸 Output
+- 🎬 **Video Learning**  
+  Videos load sequentially and track watch time.
 
-A real-time chat interface where users can:
-Send messages to each other
+- 📈 **Progress Dashboard**  
+  Displays course completion percentage based on videos watched.
 
+- 🎨 **Simple & Clean Design**  
+  Built using only HTML and CSS for clarity and ease of use.
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+
+## 📂 Project Structure
+E-Learning/
+│
+├── index.html # Homepage with domain & language selection
+├── videos.html # Video learning page
+├── dashboard.html # Dashboard showing progress
+├── style.css # Styling for all pages
+└── assets/ # Videos, images, and icons
+## 🔄 Application Flow
+
+### 🏠 Homepage
+- User selects the **domain** and **language**
+
+### 🎥 Video Page
+- Learning videos load one by one  
+- Watch time is tracked to calculate progress
+
+### 📊 Dashboard
+- Displays **percentage of course completed**  
+- Helps users track learning progress easily.
+## 📸 Output
