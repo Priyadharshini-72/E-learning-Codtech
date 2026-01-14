@@ -59,3 +59,5 @@ E-Learning/
 - Displays **percentage of course completed**  
 - Helps users track learning progress easily.
 ## 📸 Output
+<img width="1905" height="960" alt="Image" src="https://github.com/user-attachments/assets/820a1c7f-e6a6-4ce0-9aff-17e4226fb614" />
+<img width="1884" height="958" alt="Image" src="https://github.com/user-attachments/assets/79cc2e1b-f624-4c80-ab68-cf449f9c19d7" />
