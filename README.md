@@ -22,8 +22,7 @@ The application allows users to send and receive messages instantly, simulating 
 📂 Project Structure
 
 frontend/        
-  ├─ src/
-  │   ├─ components/  
+  ├─ src/ 
   │   └─ App.js       
   └─ package.json     
 
